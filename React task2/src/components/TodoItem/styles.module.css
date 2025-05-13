@@ -1,0 +1,15 @@
+.row {
+    background-color: lightblue;
+    /* border-bottom: 1px solid black; */
+}
+
+.cell {
+    padding: 10px 15px;
+    text-align: left;
+}
+
+button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+.parent {
+    padding: 20px;
+    margin: auto;
+}
+
+.table {
+    width: 500px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin: auto;
+}
+
+.table th,
+.table td {
+    padding: 10px;
+    border: 1px solid #eee;
+    text-align: center;
+}
+
+.table th {
+    background-color: grey;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+}
